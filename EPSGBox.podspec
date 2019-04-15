@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'EPSGBox'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of EPSGBox.'
+  s.summary          = 'Library for mapping Google Map or Apple Map Overlay coordinates to EPSG co-ordinates.'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -18,14 +18,14 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+Utility libarary for converting Google Map or Apple Map Overlay coordinates to EPSG specs
                        DESC
 
-  s.homepage         = 'https://github.com/Nizam Moidu/EPSGBox'
+  s.homepage         = 'https://github.com/netmaxt3r/EPSGBox'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'Nizam Moidu' => 'code@maxters.net' }
-  s.source           = { :git => 'https://github.com/Nizam Moidu/EPSGBox.git', :tag => s.version.to_s }
+  s.author           = { 'Nizam Moidu' => 'me@maxters.net' }
+  s.source           = { :git => 'https://github.com/netmaxt3r/EPSGBox.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'

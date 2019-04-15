@@ -1,0 +1,27 @@
+PODS:
+  - EPSGBox (0.1.0)
+  - Expecta (1.0.6)
+  - Specta (1.0.7)
+
+DEPENDENCIES:
+  - EPSGBox (from `../`)
+  - Expecta
+  - Specta
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Expecta
+    - Specta
+
+EXTERNAL SOURCES:
+  EPSGBox:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  EPSGBox: beaa7586eee9fed31cf7a688be76eec59d5d6d77
+  Expecta: 3b6bd90a64b9a1dcb0b70aa0e10a7f8f631667d5
+  Specta: 3e1bd89c3517421982dc4d1c992503e48bd5fe66
+
+PODFILE CHECKSUM: 0a6cc9f269c25ab7becbf568b30174e63aa753b7
+
+COCOAPODS: 1.6.1
