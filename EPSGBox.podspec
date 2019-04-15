@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'EPSGBox'
-  s.version          = '0.1.0'
+  s.version          = '0.1.1'
   s.summary          = 'Library for mapping Google Map or Apple Map Overlay coordinates to EPSG co-ordinates.'
 
 # This description is used to generate tags and improve search results.

@@ -6,7 +6,7 @@ static double MapX = -20037508.34789244;
 static double MapY = 20037508.34789244;
 static double FULL = 20037508.34789244 * 2;
 
-- (NSArray<NSNumber*> *)boundBoxForX:(int)x Y:(int)y Zoom:(int)zoom {
+- (NSArray<NSNumber*> *)boundBoxForX:(NSInteger)x Y:(NSInteger)y Zoom:(NSInteger)zoom {
     double tile = FULL / pow(2.0, (double)zoom);
     
     NSArray *result  =[[NSArray alloc] initWithObjects:

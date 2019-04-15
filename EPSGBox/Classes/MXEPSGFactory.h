@@ -2,7 +2,7 @@
 @protocol MXEPSGBoundBoxBuilder <NSObject>
 
 @required
-- (NSArray<NSNumber*>*) boundBoxForX:(int) x Y:(int) y Zoom:(int) zoom;
+- (NSArray<NSNumber*>*) boundBoxForX:(NSInteger) x Y:(NSInteger) y Zoom:(NSInteger) zoom;
 
 @end
 

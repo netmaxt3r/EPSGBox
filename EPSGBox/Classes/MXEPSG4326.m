@@ -9,7 +9,7 @@
     return  atan(sinh(n)) * 180 / M_PI;
 }
 
-- (NSArray<NSNumber*> *)boundBoxForX:(int)x Y:(int)y Zoom:(int)zoom {
+- (NSArray<NSNumber*> *)boundBoxForX:(NSInteger)x Y:(NSInteger)y Zoom:(NSInteger)zoom {
     double scale = pow(2.0, zoom);
     
     double x1 = x/scale * 360 - 180;
