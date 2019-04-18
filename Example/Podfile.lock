@@ -1,5 +1,5 @@
 PODS:
-  - EPSGBox (0.1.0)
+  - EPSGBox (0.1.2)
   - Expecta (1.0.6)
   - Specta (1.0.7)
 
@@ -18,7 +18,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  EPSGBox: beaa7586eee9fed31cf7a688be76eec59d5d6d77
+  EPSGBox: 8c1c034ac97023f9446a71f7e726aa93de6a7326
   Expecta: 3b6bd90a64b9a1dcb0b70aa0e10a7f8f631667d5
   Specta: 3e1bd89c3517421982dc4d1c992503e48bd5fe66
 
