@@ -1,6 +1,6 @@
 # EPSGBox
 
-[![CI Status](https://img.shields.io/travis/Nizam Moidu/EPSGBox.svg?style=flat)](https://travis-ci.org/Nizam Moidu/EPSGBox)
+[![CI Status](https://img.shields.io/travis/netmaxt3r/EPSGBox.svg?style=flat)](https://travis-ci.org/netmaxt3r/EPSGBox)
 [![Version](https://img.shields.io/cocoapods/v/EPSGBox.svg?style=flat)](https://cocoapods.org/pods/EPSGBox)
 [![License](https://img.shields.io/cocoapods/l/EPSGBox.svg?style=flat)](https://cocoapods.org/pods/EPSGBox)
 [![Platform](https://img.shields.io/cocoapods/p/EPSGBox.svg?style=flat)](https://cocoapods.org/pods/EPSGBox)
